@@ -45,4 +45,5 @@ while True:
     
 
 #print goodbye message
-print("\n Thanks for using the Fake News Headline Generator. Have a fun day")
+    print("\n Thanks for using the Fake News Headline Generator. Have a fun day")
+    
